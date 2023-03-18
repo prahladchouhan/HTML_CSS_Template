@@ -1,1 +1,1 @@
-this is template made with the help of HTMl and CSS
+this is template made with the help of HTML and CSS
