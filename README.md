@@ -1,1 +1,1 @@
-this is template made with the help of HTML and CSS
+this is Ecom. template made with the help of HTML and CSS
